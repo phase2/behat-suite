@@ -1,8 +1,0 @@
-{
-  "rootUrls": {
-    "local": "http://",
-    "dev": "http://",
-    "stage": "http://",
-    "prod": "http://"
-  }
-}
